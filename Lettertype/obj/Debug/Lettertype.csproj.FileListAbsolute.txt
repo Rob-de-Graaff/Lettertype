@@ -1,0 +1,15 @@
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\bin\Debug\Lettertype.exe.config
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\bin\Debug\Lettertype.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\bin\Debug\Lettertype.pdb
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\Lettertype.csprojAssemblyReference.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\MainWindow.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\App.g.cs
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\Lettertype_MarkupCompile.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\Lettertype_MarkupCompile.lref
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\MainWindow.baml
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\Lettertype.g.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\Lettertype.Properties.Resources.resources
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\Lettertype.csproj.GenerateResource.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\Lettertype.csproj.CoreCompileInputs.cache
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\Lettertype.exe
+D:\MSI BU\Save\ITVitae\Opdrachten\Opdracht 6 Lettertype Chaos\Lettertype\Lettertype\obj\Debug\Lettertype.pdb
